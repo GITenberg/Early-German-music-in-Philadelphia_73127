@@ -1,0 +1,27 @@
+_repo: Early-German-music-in-Philadelphia_73127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drummond, Robert Rutherford
+    gutenberg_agent_id: '56952'
+    url: http://www.gutenberg.org/2009/agents/56952
+description: ''
+gutenberg_issued: '2024-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73127'
+language: en
+pgterms:marc904: https://archive.org/details/earlygermanmusic01drum/page/n7/mode/2up
+pgterms:marc905: 20230106124612drummond
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Appleton and Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Early German music in Philadelphia
+url: http://www.gutenberg.org/ebooks/73127
