@@ -1,11 +1,16 @@
 _repo: Early-German-music-in-Philadelphia_73127
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73127-h/images/cover.jpg
 creator:
   author:
     agent_name: Drummond, Robert Rutherford
     gutenberg_agent_id: '56952'
     url: http://www.gutenberg.org/2009/agents/56952
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73127#Early-German-music-in-Philadelphia
 gutenberg_issued: '2024-03-09'
 gutenberg_type: Text
 identifiers:
